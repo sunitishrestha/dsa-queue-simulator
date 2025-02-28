@@ -33,13 +33,13 @@ This project aims to simulate an efficient traffic light management system using
  # Building the project
  ## 1. Clone the repository:
 
-   ```sh
+  ```bash
    git clone https://github.com/sunitishrestha/dsa-Queue-Simulator.git
    cd dsa-Queue-Simulator
 
 ## 2. Compile both program
     For main simulator
-```sh
+```bash
 gcc -I src/include -L src/lib -o bin/main.exe src/main.c src/simulation.c -lmingw32 -lSDL2main -lSDL2
 
    For vechicle generator:
