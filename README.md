@@ -38,11 +38,11 @@ This project aims to simulate an efficient traffic light management system using
    cd dsa-Queue-Simulator
 
  2. Compile both program
-   For main simulator
+   # For main simulator
 ```sh
-	gcc -I src/include -L src/lib -o bin/main.exe src/main.c src/simulation.c -lmingw32 -lSDL2main -lSDL2
+gcc -I src/include -L src/lib -o bin/main.exe src/main.c src/simulation.c -lmingw32 -lSDL2main -lSDL2
 
-  For vechicle generator:
+  # For vechicle generator:
    ```sh
 gcc -o bin/generator src/generator.c src/simulation.c  -I src/include -L src/lib -lmingw32 -lSDL2main -lSDL2
 
