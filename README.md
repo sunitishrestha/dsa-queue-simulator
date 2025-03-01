@@ -79,8 +79,4 @@ gcc -o bin/generator src/generator.c src/simulation.c  -I src/include -L src/lib
 For more details on SDL2, visit the official documentation: [SDL2 Documentation](https://wiki.libsdl.org/)
 
 # DEMO
-
-
-
-Uploading Screen Recording 2025-03-01 102158.mp4…
-
+ ![](https://github.com/sunitishrestha/dsa-queue-simulator/blob/master/src/ScreenRecording2025-03-01102158-ezgif.com-video-to-gif-converter.gif)
