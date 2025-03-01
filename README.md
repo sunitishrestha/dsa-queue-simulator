@@ -77,3 +77,10 @@ gcc -o bin/generator src/generator.c src/simulation.c  -I src/include -L src/lib
 # References
 
 For more details on SDL2, visit the official documentation: [SDL2 Documentation](https://wiki.libsdl.org/)
+
+# DEMO
+
+
+
+Uploading Screen Recording 2025-03-01 102158.mp4…
+
